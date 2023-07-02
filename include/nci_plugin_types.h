@@ -37,7 +37,7 @@
 #ifndef NCI_PLUGIN_TYPES_H
 #define NCI_PLUGIN_TYPES_H
 
-#include <nci_types.h>
+#include <ncicore/nci_types.h>
 
 G_BEGIN_DECLS
 
